@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - csv ingestion
   - python spark api
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on managing Apache Spark sessions and CSV data ingestion for data workflows using
+  Python, which aligns well with data analysis and ETL pipelines under the 'Datascience' family.
+  Other families relate to automation, devtools, or static site projects which are less relevant
+  here.
 ---
 
 # project-spark-api: Technical Overview
@@ -60,3 +67,4 @@ The current implementation is minimalistic. Future enhancements could include:
 - Providing comprehensive tests and usage examples
 
 This project serves as a practical starting point for Python developers integrating Spark into their data workflows, emphasizing simplicity and ease of use over feature completeness or configurability.
+
