@@ -1,19 +1,24 @@
 ---
 slug: github-project-spark-api
 id: github-project-spark-api
-title: project-spark-api
+title: Lightweight Python API Wrapper for Apache Spark
 repo: justin-napolitano/project-spark-api
 githubUrl: https://github.com/justin-napolitano/project-spark-api
 generatedAt: '2025-11-24T21:35:57.822Z'
 source: github-auto
 summary: >-
-  A lightweight Python API wrapper for Apache Spark designed to simplify data
-  manipulation tasks. This project provides an easy interface to instantiate
-  Spark sessions and load CSV data into Spark DataFrames.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A Python API wrapper for Apache Spark that simplifies data manipulation and
+  session management with easy CSV loading.
+tags:
+  - python
+  - pyspark
+seoPrimaryKeyword: python spark api wrapper
+seoSecondaryKeywords:
+  - apache spark data loading
+  - pyspark csv loading
+  - spark session management
+  - data manipulation with spark
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
