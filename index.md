@@ -1,32 +1,41 @@
 ---
 slug: github-project-spark-api
-title: Minimal Python API for Managing Spark Sessions and CSV Loading
+title: 'Project Spark API: Simplifying Apache Spark with Python'
 repo: justin-napolitano/project-spark-api
 githubUrl: https://github.com/justin-napolitano/project-spark-api
 generatedAt: '2025-11-23T09:26:02.456751Z'
 source: github-auto
 summary: >-
-  Overview of a lightweight Python interface that streamlines SparkSession creation and CSV file
-  ingestion using PySpark.
+  A minimal Python interface for Apache Spark that streamlines session
+  management and CSV data ingestion for developers.
 tags:
   - pyspark
   - apache-spark
   - python
   - spark-session
   - csv-loading
-seoPrimaryKeyword: spark session
+  - apache spark
+  - data ingestion
+  - spark session
+  - csv
+  - data processing
+seoPrimaryKeyword: python spark session management
 seoSecondaryKeywords:
-  - pyspark
-  - csv ingestion
-  - python spark api
+  - apache spark csv ingestion
+  - pyspark data loading
+  - spark api for python
+  - data workflows with spark
+  - minimal spark interface
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on managing Apache Spark sessions and CSV data ingestion for data workflows using
-  Python, which aligns well with data analysis and ETL pipelines under the 'Datascience' family.
-  Other families relate to automation, devtools, or static site projects which are less relevant
-  here.
+  The post focuses on managing Apache Spark sessions and CSV data ingestion for
+  data workflows using Python, which aligns well with data analysis and ETL
+  pipelines under the 'Datascience' family. Other families relate to automation,
+  devtools, or static site projects which are less relevant here.
+kind: project
+id: github-project-spark-api
 ---
 
 # project-spark-api: Technical Overview
