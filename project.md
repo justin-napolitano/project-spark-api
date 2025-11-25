@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/project-spark-api
 generatedAt: '2025-11-24T21:35:57.822Z'
 source: github-auto
 summary: >-
-  A Python API wrapper for Apache Spark that simplifies data manipulation and
-  session management with easy CSV loading.
+  A Python API wrapper for Apache Spark that simplifies data manipulation and session management
+  with easy CSV loading.
 tags:
   - python
   - pyspark
@@ -19,8 +19,8 @@ seoSecondaryKeywords:
   - spark session management
   - data manipulation with spark
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -89,4 +89,5 @@ project-spark-api/
 - Enable configuration options for Spark session (e.g., app name, master URL)
 - Add error handling and logging
 - Provide unit tests and examples
+
 
